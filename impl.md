@@ -1,5 +1,7 @@
 # Deep Neural Network Implementation
 
+## General
+
 * [_Deep Learning with COTS HPC Systems_](http://www.jmlr.org/proceedings/papers/v28/coates13.pdf), A. Coates, B. Huval, T. Wang, D. Wu, A. Ng, B. Catanzaro, JMLR 2013
 
 ## DAG Representations
