@@ -10,7 +10,8 @@
 
 * [_A Metaprogramming and Autotuning Framework for Deploying Deep Learning Applications_](https://arxiv.org/abs/1611.06945), M. Moskewicz, A. Jannesari, K. Kuetzer, arXiv 2016
 
-### DAG Representations
+## DAG Representations
 
 * [_NNVM: Neural Network Virtual Machine_](https://github.com/dmlc/nnvm)
 * [_Nervana Systems ngraph_](https://github.com/NervanaSystems/ngraph)
+* [_Boda Compute Graph_](https://github.com/moskewcz/boda)
