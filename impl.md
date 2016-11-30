@@ -2,19 +2,19 @@
 
 ## General
 
-* [_Deep Learning with COTS HPC Systems_](http://www.jmlr.org/proceedings/papers/v28/coates13.pdf), A. Coates, B. Huval, T. Wang, D. Wu, A. Ng, B. Catanzaro, JMLR 2013
+* [_Deep Learning with COTS HPC Systems_](http://www.jmlr.org/proceedings/papers/v28/coates13.pdf), A. Coates et al., JMLR 2013
 
 ## Compilation and Optimization Techniques
 
-* [_Optimizing Memory Efficiency for Deep Convolutional Neural Networks on GPUs_](https://arxiv.org/pdf/1610.03618v1.pdf), C. Li, Y. Yang, S. Chakradhar, H. Zhou, Supercomputing 2016
+* [_Optimizing Memory Efficiency for Deep Convolutional Neural Networks on GPUs_](https://arxiv.org/pdf/1610.03618v1.pdf), C. Li et al., SC 2016
 
-* [_A Metaprogramming and Autotuning Framework for Deploying Deep Learning Applications_](https://arxiv.org/abs/1611.06945), M. Moskewicz, A. Jannesari, K. Kuetzer, arXiv 2016
+* [_A Metaprogramming and Autotuning Framework for Deploying Deep Learning Applications_](https://arxiv.org/abs/1611.06945), M. Moskewicz et al., arXiv 2016
 
-* [_One Weird Trick for Parallelizing Convolutional Neural Networks_](https://arxiv.org/abs/1404.5997), A. Krizhevsky
+* [_One Weird Trick for Parallelizing Convolutional Neural Networks_](https://arxiv.org/abs/1404.5997), A. Krizhevsky, arXiv 2015
 
-* [_ImageNet Classification with Deep Convolutional Neural Networks_](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), A. Krizhevsky, I. Sutskever, G. Hinton, NIPS 2012
+* [_ImageNet Classification with Deep Convolutional Neural Networks_](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), A. Krizhevsky et al., NIPS 2012
 
-* [_Deep Learning with COTS HPC Systems_](http://www.jmlr.org/proceedings/papers/v28/coates13.pdf), A. Coates, B. Huval, T. Wang, D. Wu, A. Ng, B. Catanzaro, JMLR 2013
+* [_Deep Learning with COTS HPC Systems_](http://www.jmlr.org/proceedings/papers/v28/coates13.pdf), A. Coates et al., JMLR 2013
 
 * [_Large Scale Distributed Deep Networks_](http://research.google.com/archive/large_deep_networks_nips2012.html), J. Dean et al, NIPS 2012
 
