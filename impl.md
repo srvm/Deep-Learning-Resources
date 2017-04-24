@@ -31,8 +31,18 @@
 
 * [_Memory-Efficient Backpropagation Through Time_](https://arxiv.org/abs/1606.03401), A. Gruslys et al, arXiv 2016
 
-## DAG Representations
+## Online Articles and Blog Posts
 
+* [_How to Parallelize Deep Learning on GPUs Part 1_](http://timdettmers.com/2014/10/09/deep-learning-data-parallelism/)
+* [_How to Parallelize Deep Learning on GPUs Part 2_](http://timdettmers.com/2014/11/09/model-parallelism-deep-learning/)
+* [_Scaling Deep Learning with MXNet_](https://www.slideshare.net/AIFrontiers/scaling-deep-learning-with-mxnet)
+* [_Rolling and Unrolling RNNs_](https://shapeofdata.wordpress.com/2016/04/27/rolling-and-unrolling-rnns/)
+* [_Optimizing Memory Consumption in Deep Learning_](http://mxnet.io/architecture/note_memory.html)
+
+## Neural Network Graph Frameworks
+
+* [_TensorFlow XLA_](https://www.tensorflow.org/performance/xla/)
 * [_NNVM: Neural Network Virtual Machine_](https://github.com/dmlc/nnvm)
 * [_Nervana Systems ngraph_](https://github.com/NervanaSystems/ngraph)
 * [_Boda Compute Graph_](https://github.com/moskewcz/boda)
+* [_DyNet_](https://github.com/clab/dynet)
