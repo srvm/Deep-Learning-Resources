@@ -12,8 +12,7 @@
 
 * [_MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems_](https://arxiv.org/abs/1512.01274), T. Chen et al, arXiv 2016
 
-* [Deep Image: Scaling up Image Recognition]
-(https://arxiv.org/vc/arxiv/papers/1501/1501.02876v1.pdf), R. Wu et al, arXiv 2015
+* [_Deep Image: Scaling up Image Recognition_](https://arxiv.org/vc/arxiv/papers/1501/1501.02876v1.pdf), R. Wu et al, arXiv 2015
 
 
 ## Compilation and Optimization Papers
