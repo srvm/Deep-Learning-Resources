@@ -8,7 +8,8 @@
 * [_Tensorflow: Large-Scale Machine Learing on Heterogeneous Distributed Systems_](https://arxiv.org/abs/1603.04467), M. Abadi et al, arXiv 2016
 * [_MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems_](https://arxiv.org/abs/1512.01274), T. Chen et al, arXiv 2016
 * [_Deep Image: Scaling up Image Recognition_](https://arxiv.org/vc/arxiv/papers/1501/1501.02876v1.pdf), R. Wu et al, arXiv 2015
-
+* [_Efficient Processing of Deep Neural Networks: A Tutorial and Survey_](https://arxiv.org/abs/1703.09039), V. Sze et al, arXiv 2017
+* [_Benchmarking State-of-the-Art Deep Learning Software Tools_](https://arxiv.org/abs/1608.07249), S. Shi et al, arXiv 2017
 
 ## Compilation and Optimization Papers
 
@@ -19,6 +20,7 @@
 * [_Latte: A Language, Compiler, and Runtime for Elegant and Efficient Deep Neural Networks_](http://www.thev.net/PaulLiu/download/p209-truong.pdf), L. Truong et al., PLDI 2016
 * [_On Optimizing Machine Learning Workloads via Kernel Fusion_](http://dl.acm.org/citation.cfm?id=2688521), A. Ashari et al., PPoPP 2015
 * [_Memory-Efficient Backpropagation Through Time_](https://arxiv.org/abs/1606.03401), A. Gruslys et al, arXiv 2016
+* [_Training Deep Nets with Sublinear Memory Cost_](https://arxiv.org/abs/1604.06174), T. Chen et al, arXiv 2016
 
 ## Online Articles and Blog Posts
 
