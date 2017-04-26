@@ -22,6 +22,11 @@
 * [_Memory-Efficient Backpropagation Through Time_](https://arxiv.org/abs/1606.03401), A. Gruslys et al, arXiv 2016
 * [_Training Deep Nets with Sublinear Memory Cost_](https://arxiv.org/abs/1604.06174), T. Chen et al, arXiv 2016
 
+## Dynamic Neural Networks
+
+* [_Deep Learning with Dynamic Computation Graphs_](https://arxiv.org/abs/1702.02181), M. Looks et al, ICLR 2017
+* [_DyNet: The Dynamic Neural Network Toolkit_](https://arxiv.org/abs/1701.03980), G. Neubig et al, arXiv 2017
+
 ## Online Articles and Blog Posts
 
 * [_How to Parallelize Deep Learning on GPUs Part 1_](http://timdettmers.com/2014/10/09/deep-learning-data-parallelism/)
