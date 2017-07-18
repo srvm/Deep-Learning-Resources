@@ -35,10 +35,13 @@
 * [_Rolling and Unrolling RNNs_](https://shapeofdata.wordpress.com/2016/04/27/rolling-and-unrolling-rnns/)
 * [_Optimizing Memory Consumption in Deep Learning_](http://mxnet.io/architecture/note_memory.html)
 
-## Neural Network Graph Frameworks
+## Neural Network Optimization Frameworks
 
 * [_TensorFlow XLA_](https://www.tensorflow.org/performance/xla/)
 * [_NNVM: Neural Network Virtual Machine_](https://github.com/dmlc/nnvm)
 * [_Nervana Systems ngraph_](https://github.com/NervanaSystems/ngraph)
 * [_Boda Compute Graph_](https://github.com/moskewcz/boda)
 * [_DyNet_](https://github.com/clab/dynet)
+* [_OptNet_](https://github.com/fmassa/optimize-net)
+* [_TensorFlow Graph Transform Tool_](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/tools/graph_transforms/README.md)
+* 
