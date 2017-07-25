@@ -21,6 +21,8 @@
 * [_On Optimizing Machine Learning Workloads via Kernel Fusion_](http://dl.acm.org/citation.cfm?id=2688521), A. Ashari et al., PPoPP 2015
 * [_Memory-Efficient Backpropagation Through Time_](https://arxiv.org/abs/1606.03401), A. Gruslys et al, arXiv 2016
 * [_Training Deep Nets with Sublinear Memory Cost_](https://arxiv.org/abs/1604.06174), T. Chen et al, arXiv 2016
+* [_Scalable Training of Deep Learning Machines by Incremental Block Training with Intra-block Parallel Optimization and Blockwise Model-Update Filtering_](https://www.microsoft.com/en-us/research/publication/scalable-training-deep-learning-machines-incremental-block-training-intra-block-parallel-optimization-blockwise-model-update-filtering/)
+* [_1-Bit Stochastic Gradient Descent and Application to Data-Parallel Distributed Training of Speech DNNs_](https://www.microsoft.com/en-us/research/publication/1-bit-stochastic-gradient-descent-and-application-to-data-parallel-distributed-training-of-speech-dnns/?from=http%3A%2F%2Fresearch.microsoft.com%2Fapps%2Fpubs%2F%3Fid%3D230137)
 
 ## Dynamic Neural Networks
 
@@ -44,4 +46,3 @@
 * [_DyNet_](https://github.com/clab/dynet)
 * [_OptNet_](https://github.com/fmassa/optimize-net)
 * [_TensorFlow Graph Transform Tool_](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/tools/graph_transforms/README.md)
-* 
