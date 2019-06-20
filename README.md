@@ -6,3 +6,4 @@ Latest deep learning papers and resources.
 * [General resources](general.md)
 * [Deep Reinforcement Learning](drl.md)
 * [Deep Neural Network Implementation](impl.md)
+* [Recurrent Structures](recurrent.md)
